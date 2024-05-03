@@ -1,0 +1,23 @@
+.frame{
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 300px;
+    margin: 10px;
+}
+.name{
+    text-align: center;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.para{
+    text-align: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.detail{
+    text-align: left;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+}
